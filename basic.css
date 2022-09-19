@@ -1,0 +1,25 @@
+
+/* Tag selector */
+h1{
+    color: rgb(164, 240, 11);
+    background-color: firebrick;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+p{
+    color: rgb(6, 86, 88);
+    background-color: rgb(232, 119, 119);
+    
+}
+/* id selector */
+
+#head{
+ color: aqua;
+ background-color: rgb(20, 13, 13);
+}
+
+/* class selector */
+.headone{
+    color: lawngreen;
+    background-color: rgb(15, 104, 159);
+}
